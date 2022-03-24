@@ -1,6 +1,6 @@
-# KuzaBase
+# Candranet
 
-KuzaBase
+Candra-Bot
 
 ## FOR TERMUX USER
 
